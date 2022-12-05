@@ -1,6 +1,7 @@
 # Portfolio
-</br> 
+
 References 
+</br> 
 GitHib and Envelope logo icons from: 
 https://fontawesome.com/
 
